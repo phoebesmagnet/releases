@@ -4,6 +4,8 @@
 
 Paste a magnet link, or click one in your browser, and it starts playing while it downloads.
 
+Feedback and suggestions welcome from [the discussions page](https://github.com/orgs/phoebesmagnet/discussions).
+
 ## Download
 
 Get the latest version from the **[Releases page](https://github.com/phoebesmagnet/releases/releases/latest)**.
